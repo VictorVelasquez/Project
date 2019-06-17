@@ -63,3 +63,5 @@ public class GroupOfCards
 //this comment is just me practicing github commands
 
 //Added comments on github to practic pulling
+
+//Worked perfedtly now to practice fetch and merge 
