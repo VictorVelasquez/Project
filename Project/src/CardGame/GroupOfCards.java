@@ -65,3 +65,5 @@ public class GroupOfCards
 //Added comments on github to practic pulling
 
 //Worked perfedtly now to practice fetch and merge 
+
+//2019 has been great so far 
